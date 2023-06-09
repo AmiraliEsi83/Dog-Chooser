@@ -4,4 +4,4 @@ Switch between light and dark mode for another dog type :)
 
 ![alt cover](cover.png)
 
-#3# Live version(https://www.udemy.com/course/javascript-web-projects-to-build-your-portfolio-resume/)
+### [View Live](https://AmiraliEsi83.github.io/Dog-Chooser/)
